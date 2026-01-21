@@ -13,7 +13,3 @@ A PHP-based online food ordering system with admin and user modules.
 - MySQL
 - HTML, CSS, JavaScript
 - XAMPP
-
-git add README.md
-git commit -m "Added project README"
-git push
